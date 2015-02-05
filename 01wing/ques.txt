@@ -1,0 +1,50 @@
+Lab 1: Wing
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+What value was displayed for each command? What do you think the
+** command does? 
+
+ANSWER: 
+6
+3.0
+256
+
+The ** command is exponentiation.
+
+QUESTION 2:
+What type do you think "7.0" is? 
+
+ANSWER:
+It is a floating-point type.
+
+
+QUESTION 3:
+What was printed by each of the commands? Why were there different
+results for each command (i.e. indicate why each result was produced)? 
+
+ANSWER:
+77
+14
+
+In the first command, two strings were added, hence 77. In the second, two
+integers were added, hence 14. The computer recognized "7" as a string not 
+an integer and therefore just placed them next to each other.
+
+
+QUESTION 4:
+What was displayed by the the print statement? What would have been
+printed if we changed the print statement to print(First)? 
+
+ANSWER:
+You
+Me
+
+QUESTION 5:
+Modify the program so that it calculates the sales tax on an item that
+costs 1000 dollars. Assume a tax rate of 10 percent or 0.10. 
+
+ANSWER:
+
+1100.0
+

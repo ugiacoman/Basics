@@ -1,0 +1,33 @@
+Lab 9: Dictionaries
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+For each line that prints a result, list the line and the result.       
+
+ANSWER:
+
+LINE 3: {'bob': 40, 'joe': 55, 'mary': 22}
+LINE 5: True
+LINE 7: False
+LINE 10: 58
+LINE 13: 33
+LINE 15: dict_keys(['bob', 'joe', 'sam', 'mary'])
+LINE 18: dict_keys(['bob', 'joe', 'sam', 'mary'])
+
+
+
+
+QUESTION 2:
+How many entries (abbrv/phrase pairs) are there in the sample textabbrv.txt file? 
+
+ANSWER:
+
+
+
+QUESTION 3:
+What are the first 4 entries of the concordance produced from the concordance.txt sample file? 
+
+ANSWER:
+
+
+

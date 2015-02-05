@@ -1,0 +1,10 @@
+Name                 Class      GPA
+-------------------------------------
+Smith, John          Freshman   3.25      
+Roberts, Sally       Senior     3.82      
+Nelson, Amy          3          3.17      
+Smith, Jane          Sophomore  2.89      
+Taylor, Susan        Sophomore  3.54      
+Logan, Mark          Senior     3.49      
+-------------------------------------
+Average GPA:                    3.36 

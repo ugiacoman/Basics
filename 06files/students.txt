@@ -1,0 +1,24 @@
+100 
+Smith, John 
+3.25 
+1
+200 
+Roberts, Sally 
+3.82 
+4
+226 
+Nelson, Amy 
+3.17 
+3
+300
+Smith, Jane
+2.89 
+2
+387 
+Taylor, Susan 
+3.54 
+2
+400 
+Logan, Mark 
+3.49 
+4

@@ -1,0 +1,35 @@
+Lab 3: Selection
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+What line of the program contains a syntax error? 
+
+ANSWER:
+
+Line 22
+
+QUESTION 2:
+Is there an identifier that looks like it should be a keyword,
+but is not in bold face? What is the identifier? 
+
+ANSWER:
+
+elseif should be elif
+
+QUESTION 3:
+What is the result produced by the program when you enter the three
+grades: 55, 65, 75? Is it correct? 
+
+ANSWER:
+
+The average is 65, the student passed, and got a D. Yes, it is correct if the \
+passing grade is 60. However, No matter what grades the student got, \
+the program will print the student passed.
+
+
+QUESTION 4: What answer do you get for the input: 95, 95, 95?
+
+ANSWER:
+
+The average is 95, the student passed, and got a D.
+

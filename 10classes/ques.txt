@@ -1,0 +1,31 @@
+Lab 10: Classes
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+What is the difference between the two Point objects? 
+
+ANSWER:
+
+
+
+QUESTION 2:
+What where the values printed out by the 3rd and 4th commands? 
+
+ANSWER:
+
+
+
+QUESTION 3:
+What where the values printed out by the 5th, 6th and 7th commands? 
+
+ANSWER:
+
+
+
+QUESTION 4:
+What was the distance between the points (1, 1) and (3, 3)? 
+
+ANSWER:
+
+
+

@@ -1,0 +1,27 @@
+Lab 5: Strings
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+For each line that prints a result, list the line and the result.            
+
+ANSWER:
+
+Line 3:'abcd'
+Line 5:True
+Line 8:'ABCDE'
+Line 12:'12345'
+Line 14:'to be, or not to be'
+Line 18:'ab12'
+Line 20:'12ab'
+Line 23:'to BE or not to BE'
+Line 25:'to giggle or not to giggle'
+Line 28:['to', 'BE', 'or', 'not', 'to', 'BE']
+Line 30:97
+
+QUESTION 2:
+What answer do you get when you run the program with the input 9? 
+
+ANSWER:
+
+1001
+

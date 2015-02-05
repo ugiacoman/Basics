@@ -1,0 +1,69 @@
+Lab 12: Linux
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+What error is displayed? 
+
+ANSWER:
+
+
+
+QUESTION 2:
+Describe briefly how the -l (lowercase L) option modifies the action
+of the ls command. 
+
+ANSWER:
+
+
+
+QUESTION 3:
+What is the name of the current working directory? 
+
+ANSWER:
+
+
+
+QUESTION 4:
+What are the files contained in the 12linux directory? (Include only files
+not directories in your answer.) 
+
+ANSWER:
+
+
+
+QUESTION 5:
+What is the name of your working directory after executing ``cd..''? 
+
+ANSWER:
+
+
+
+QUESTION 6:
+What is the name of your current working directory? 
+
+ANSWER:
+
+
+
+QUESTION 7:
+This file contains a simple message. What does the file say? 
+
+ANSWER:
+
+
+
+QUESTION 8:
+If you run command arg1 arg2 arg3 arg4 arg5 what index in sys.argv would
+arg3 show up in? 
+
+ANSWER:
+
+
+
+QUESTION 9:
+Where is Waldo? 
+
+ANSWER:
+
+
+

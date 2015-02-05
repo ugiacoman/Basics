@@ -1,0 +1,26 @@
+Lab 4: Loops
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+What value does x contain? 
+
+ANSWER:
+
+0.0
+
+
+QUESTION 2:
+On what line does its value change? 
+
+ANSWER:
+
+0.5
+
+QUESTION 3:
+What is the hailstone sequence of 12? 
+
+ANSWER:
+
+
+
+12.0 6.0 3.0 10.0 5.0 16.0 8.0 4.0 2.0 1.0 

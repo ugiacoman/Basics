@@ -1,0 +1,27 @@
+Lab 2: Calculations
+-----------------------------------------------------------------------------
+
+QUESTION 1:
+Why is it necessary to add the import math line for the program to work? 
+
+ANSWER:
+
+It is necesary to add the import math line because the program pulls statements
+from the previsouly coded math program such as sqrt. Without math, the program
+does not know what sqrt is.
+
+QUESTION 2:
+What result do you get with the new values? 
+
+ANSWER:
+
+12.31990259701756
+
+QUESTION 3:
+Why did these points work initially but cause an error after you made
+these changes? 
+
+ANSWER:
+
+It caused an error because it is a float, not an integer. The program converts 
+the strings into integers not floats
